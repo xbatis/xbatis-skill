@@ -1,5 +1,5 @@
 ---
-name: xbatis-framework-manual
+name: xbatis-skills
 description: 用于 xbatis 框架项目的接入、解释、生成、修改和排障；覆盖 MybatisMapper、BasicMapper、QueryChain、InsertChain、UpdateChain、DeleteChain、@Table/@TableId/@TableField、@ResultEntity、@ConditionTarget、dbAdapt、多租户、逻辑删除、乐观锁、分表、XML 整合、分页与 AI 代码生成约定。 Use when working on xbatis framework code, docs, or usage questions.
 ---
 
